@@ -1,3 +1,9 @@
+HOW TO INSTALL?
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+1. npm install (terminal)                           |
+2. npm run build-and-watch-css (terminal)           |
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 What is Tailwind CSS?
 1.  CSS framework made up of utility classes
 2.  Much lower-level than Bootstrap, Materialize.
@@ -8,6 +14,6 @@ You Should Know...
 -----------------------------------------------------
 
 Using Tailwind CSS
-1.  Install Tailwind using npm (node package manager)
-2.  You'll need node.js installed on your computer
+1.  Install Tailwind using npm (node package manager) - installed in package
+2.  You'll need node.js installed on your computer -
 -----------------------------------------------------
